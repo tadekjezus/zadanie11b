@@ -1,1 +1,2 @@
 galaz master rewizja pierwsza
+galaz branch rewizja druga
